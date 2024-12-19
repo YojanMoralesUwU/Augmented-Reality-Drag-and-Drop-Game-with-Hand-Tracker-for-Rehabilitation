@@ -1,4 +1,4 @@
-# HandMotion-AR-Game-for-Rehabilitation
+# HandTracker-AR-Game-for-Rehabilitation
 
 ## Description
 
